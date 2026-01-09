@@ -30,19 +30,13 @@ nav{
        
 }
 
-/* .log h2{
-    font-size: 45px;
-} */
+
 .header{
     background-color: #FFFFFF;
 
 }
 
-/* nav.menu{
-    display:flex;
-    list-style-type: menu;
-    gap: 50px;
-} */
+
 .link-parent{
     display: flex;
     gap: 100px;
@@ -62,20 +56,7 @@ nav{
     height: 379px;
     gap: 32px;
 }
-/* .hero-section {
-    min-height: 100vh;
-    background-image: url("./styles/hero-bg.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-
-    position: relative;
-} */
 
 * {
     margin: 0;
@@ -165,16 +146,7 @@ nav{
     cursor: pointer;
 }
 
-/* responsive
-@media (max-width: 768px) {
-    .hero-content h1 {
-        font-size: 36px;
-    }
 
-    .hero-content p {
-        font-size: 16px;
-    }
-} */
 
 .content-h{
     text-align: center;
